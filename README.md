@@ -1,2 +1,3 @@
 # metadataMaker
-Generating metadata from arXiv article contents
+
+Generating metadata from arXiv article contents.
