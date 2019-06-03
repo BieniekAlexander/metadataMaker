@@ -1,3 +1,5 @@
+.ipynb_checkpoints/*
 data/*
 background/*
 __pycache__/*
+*.bin
