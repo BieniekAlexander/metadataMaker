@@ -1,0 +1,33 @@
+[]
+  {
+    "title": "Predicting Preference Flips in Commerce Search",
+    "abstract": "Traditional approaches to ranking in web search follow the paradigm of rank-by-score: a learned function gives each query-URL combination an absolute score and URLs are ranked according to this score. This paradigm ensures that if the score of one URL is better than another then one will always be ranked higher than the other. Scoring contradicts prior work in behavioral economics that showed that users' preferences between two items depend not only on the items but also on the presented alternatives. Thus, for the same query, users' preference between items A and B depends on the presence/absence of item C. We propose a new model of ranking, the Random Shopper Model, that allows and explains such behavior. In this model, each feature is viewed as a Markov chain over the items to be ranked, and the goal is to find a weighting of the features that best reflects their importance. We show that our model can be learned under the empirical risk minimization framework, and give an efficient learning algorithm. Experiments on commerce search logs demonstrate that our algorithm outperforms scoring-based approaches including regression and listwise ranking.",
+    "category": "Computer Science",
+    "characters": "Scoring contradicts prior work in behavioral economics that showed that users' preferences between two items depend not only on the items bu"
+  },
+  {
+    "title": "The quantum dynamics of two coupled large spins",
+    "abstract": "We calculate the time evolution of mean spin components and the squared I-concurrence of two coupled large spins S. As the initial conditions we take two cases: spin coherent states and uniform superposition states. For the spin coherent states we have obtained the asymptotic for-mulas at S>>1 and t<<T (T is period). We draw a conclusion that quantum computation on qudits, represented by large spins, do not get the principal limitations on the spin number S.",
+    "category": "Physics",
+    "characters": "We calculate the time evolution of mean spin components and the squared I-concurrence of two coupled large spins S. As the initial condition"
+  },
+  {
+    "title": "Asymmetric kernel in Gaussian Processes for learning target variance",
+    "abstract": "This work incorporates the multi-modality of the data distribution into a Gaussian Process regression model. We approach the problem from a discriminative perspective by learning, jointly over the training data, the target space variance in the neighborhood of a certain sample through metric learning. We start by using data centers rather than all training samples. Subsequently, each center selects an individualized kernel metric. This enables each center to adjust the kernel space in its vicinity in correspondence with the topology of the targets — a multi-modal approach. We additionally add descriptiveness by allowing each center to learn a precision matrix. We demonstrate empirically the reliability of the model.",
+    "category": "Computer Science",
+    "characters": "This work incorporates the multi-modality of the data distribution into a Gaussian Process regression model. We approach the problem from a "
+  },
+  {
+    "id": "http://arxiv.org/abs/0706.3477v1",
+    "category": "Quantitative Biology",
+    "subject": "q-bio.GN",
+    "title": "OrfMapper: A Web-Based Application for Visualizing Gene Clusters on\n Metabolic Pathway Maps",
+    "abstract": "Computational analyses of, e.g., genomic, proteomic, or metabolomic data,\ncommonly result in one or more sets of candidate genes, proteins, or enzymes.\nThese sets are often the outcome of clustering algorithms. Subsequently, it has\nto be tested if, e.g., the candidate gene-products are members of known\nmetabolic processes. With OrfMapper we provide a powerful but easy-to-use,\nweb-based database application, that supports such analyses. All services\nprovided by OrfMapper are freely available at http://www.orfmapper.com"
+  },
+  {
+    "id": "http://arxiv.org/abs/1806.00534v4",
+    "category": "Mathematics",
+    "subject": "math.IT",
+    "title": "Run Procrustes, Run! On the convergence of accelerated Procrustes Flow",
+    "abstract": "In this work, we present theoretical results on the convergence of non-convex accelerated gradient descent in matrix factorization models. The technique is applied to matrix sensing problems with squared loss, for the estimation of a rank $r$ optimal solution $X^\\star \\in \\mathbb{R}^{n \\times n}$. We show that the acceleration leads to linear convergence rate, even under non-convex settings where the variable $X$ is represented as $U U^\\top$ for $U \\in \\mathbb{R}^{n \\times r}$. Our result has the same dependence on the condition number of the objective --and the optimal solution-- as that of the recent results on non-accelerated algorithms. However, acceleration is observed in practice, both in synthetic examples and in two real applications: neuronal multi-unit activities recovery from single electrode recordings, and quantum state tomography on quantum computing simulators."}
+]

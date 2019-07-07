@@ -3,3 +3,4 @@ data/*
 background/*
 __pycache__/*
 *.bin
+reports/*
